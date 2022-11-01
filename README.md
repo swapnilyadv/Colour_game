@@ -7,6 +7,7 @@ This was my first basic web devlopment website show in beloow output
 2. Easy level
 ![image](https://user-images.githubusercontent.com/79936181/199336119-6632a637-27b4-4615-9fab-cb11dca1943a.png)
 3. new colour 
+![image](https://user-images.githubusercontent.com/79936181/199337022-414a6c1d-7c30-4fe1-b46d-e73a1fb0d992.png)
 Its change to other random option with randam queation
 # run
 You just need a vs code and install live searver in vs code
