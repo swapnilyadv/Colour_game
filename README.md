@@ -1,5 +1,7 @@
 # Colours_Game
 Its basically given 6 option in hard level and 3 option in easy level, you just have to select an a correct colour which is give you such like that RGB(110, 226, 62)...
+## Play Here: 
+https://swapnilyadv.github.io/Colour_game/colorGame.html
 
 # Photos
 ## Hard Leval Game:
